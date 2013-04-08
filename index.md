@@ -12,7 +12,7 @@ Le immagini sono esterne al sito, e per questo non sono ridimesionate. Il poco s
 ==Ricerca== 
 Se conosci gi&agrave; chi vuoi cercare usa la casella &quot;Cerca&quot; sulla sinistra inserendo il termine o i termini da cercare. 
 *'''Vai''' va direttamente alla prima pagina che corrisponde ai termini cercati.
-*'''Cerca''' fa vedere la lista di possibilità.
+*'''Cerca''' fa vedere la lista di possibilitï¿½.
 
 ==Le persone==
 Le persone che hanno avuto la fortuna/sfortuna di incontrare gli eroi
