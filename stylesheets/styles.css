@@ -253,3 +253,10 @@ footer {
     color:#444;
   }
 }
+
+#notfound-head {
+  font-size: 80px;
+  font-weight: 600;
+  color: #aaa;
+  margin: 50px 20px;
+}
