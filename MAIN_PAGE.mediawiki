@@ -1,5 +1,5 @@
 ==Who's Who==
-Dove ogni informazione conosciuta dalla Compagnia degli Eroi pu� essere salvata e cercata. 
+Dove ogni informazione conosciuta dalla Compagnia degli Eroi pu&ograve; essere salvata e cercata. 
 
 
 
@@ -10,9 +10,9 @@ Per avere un'idea delle informazioni minime per inserire una pagina, guardare [[
 Le immagini sono esterne al sito, e per questo non sono ridimesionate. Il poco spazio a disposizione non ne permette il caricamento su questo sito.
 
 ==Ricerca== 
-Se conosci gi� chi vuoi cercare usa la casella &quot;Cerca&quot; sulla sinistra inserendo il termine o i termini da cercare. 
+Se conosci gi&agrave; chi vuoi cercare usa la casella &quot;Cerca&quot; sulla sinistra inserendo il termine o i termini da cercare. 
 *'''Vai''' va direttamente alla prima pagina che corrisponde ai termini cercati.
-*'''Cerca''' fa vedere la lista di possibilit�.
+*'''Cerca''' fa vedere la lista di possibilità.
 
 ==Le persone==
 Le persone che hanno avuto la fortuna/sfortuna di incontrare gli eroi
