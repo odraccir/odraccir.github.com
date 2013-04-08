@@ -1,8 +1,3 @@
----
-layout: default
-title: Gozzilioni
----
-
 ==Who's Who==
 Dove ogni informazione conosciuta dalla Compagnia degli Eroi pu&ograve; essere salvata e cercata. 
 
