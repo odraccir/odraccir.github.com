@@ -1,2 +1,4 @@
 author: Gozzilioni
-markdown: mediawiki
+
+permalink: pretty
+markdown: rdiscount

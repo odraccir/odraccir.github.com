@@ -13,13 +13,13 @@
   </author>
   <rights>Copyright (c) 2013 {{ site.author }}</rights>
   
-  {% for page in site.pages limit:20 %}
+  {% for post in site.posts limit:20 %}
     <entry>
-      <title>{{ pages.title }}</title>
+      <title>{{ post.title }}</title>
       <link href="{{ site.url }}{{ post.url }}"/>
-      <updated>{{ page.date | date_to_xmlschema }}</updated>
-      <id>{{ site.url }}{{ page.id }}</id>
-      <content type="html">{{ page.content | xml_escape }}</content>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <id>{{ site.url }}{{ post.id }}</id>
+      <content type="html">{{ post.content | xml_escape }}</content>
     </entry>
   {% endfor %}
 </feed>
