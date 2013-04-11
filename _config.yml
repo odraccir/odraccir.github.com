@@ -1,5 +1,6 @@
 author: Gozzilioni
-
 url: odraccir.github.com
+
 permalink: pretty
 markdown: rdiscount
+paginate: 20
