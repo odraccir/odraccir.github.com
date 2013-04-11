@@ -1,8 +1,3 @@
----
-layout: post
-title: LogoPage
----
-
 ==Odraccir.github.com==
 
 Heroes' Who's Who
