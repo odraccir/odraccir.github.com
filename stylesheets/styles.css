@@ -118,6 +118,7 @@ header ul {
 }
 
 header li {
+  margin:2px 0px;
   width:89px;
   float:left;
   border-right:1px solid #d2d2d2;
@@ -132,6 +133,26 @@ header ul a {
   text-align:center;
   padding-top:6px;
   height:40px;
+}
+
+#home #nav-home a,
+#posts #nav-posts a,
+#projects #nav-projects a,
+#papers #nav-papers a,
+#about #nav-about a {
+  background-color:#688C8C;
+  color:#fff;
+  border:1px solid #fff;
+}
+#home #nav-home a:hover,
+#posts #nav-posts a:hover,
+#projects #nav-projects a:hover,
+#papers #nav-papers a:hover,
+#about #nav-about a:hover {
+  color:#333;
+  background:white;
+  text-decoration:none;
+  border:1px solid #333;
 }
 
 strong {
