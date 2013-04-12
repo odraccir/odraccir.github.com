@@ -1,6 +1,14 @@
 author: Gozzilioni
 url: odraccir.github.com
-
 permalink: pretty
-markdown: rdiscount
 paginate: 20
+
+markdown: maruku
+
+
+exclude: start_jeckyll.bat
+prod_build: false
+
+plugins: ./_plugins
+destination: ./_sites
+category_dir: ./_category
